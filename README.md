@@ -1,4 +1,4 @@
-# webauto-audit-skiils — 跨平台 Web 安全审计技能系统
+# webauto-audit-skiils — Web 代码审计技能skills
 
 <p align="center">
   <b>按语言/框架组织 · PHP / Java / .NET / Node.js · 50+ 审计文件 · 动态调试 · 漏洞链挖掘</b>
@@ -8,7 +8,7 @@
 
 ## 项目简介
 
-webauto-audit-skiils是一套面向 Claude Code 的 Web 安全审计技能系统。
+webauto-audit-skiils是一套适用于 Claude Code 的 Web 代码审计技能skills。
 
 **核心设计理念：按语言和框架组织。** 每种语言拥有完整、独立的审计文件集合——从总览（危险函数/优先级）到每个漏洞的详细模式（漏洞代码 ↔ 安全代码对比），再到框架专项审计。审计者无需在多文件间跳转，一种语言一个目录即可完成完整审计。
 
